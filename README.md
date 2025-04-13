@@ -1,0 +1,2 @@
+cd DiscountCodeClient
+dotnet run
