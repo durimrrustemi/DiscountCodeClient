@@ -1,0 +1,14 @@
+C:\Users\Durim\DiscountCodeClient\bin\Debug\net8.0\DiscountCodeClient.exe
+C:\Users\Durim\DiscountCodeClient\bin\Debug\net8.0\DiscountCodeClient.deps.json
+C:\Users\Durim\DiscountCodeClient\bin\Debug\net8.0\DiscountCodeClient.runtimeconfig.json
+C:\Users\Durim\DiscountCodeClient\bin\Debug\net8.0\DiscountCodeClient.dll
+C:\Users\Durim\DiscountCodeClient\bin\Debug\net8.0\DiscountCodeClient.pdb
+C:\Users\Durim\DiscountCodeClient\obj\Debug\net8.0\DiscountCodeClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Durim\DiscountCodeClient\obj\Debug\net8.0\DiscountCodeClient.AssemblyInfoInputs.cache
+C:\Users\Durim\DiscountCodeClient\obj\Debug\net8.0\DiscountCodeClient.AssemblyInfo.cs
+C:\Users\Durim\DiscountCodeClient\obj\Debug\net8.0\DiscountCodeClient.csproj.CoreCompileInputs.cache
+C:\Users\Durim\DiscountCodeClient\obj\Debug\net8.0\DiscountCodeClient.dll
+C:\Users\Durim\DiscountCodeClient\obj\Debug\net8.0\refint\DiscountCodeClient.dll
+C:\Users\Durim\DiscountCodeClient\obj\Debug\net8.0\DiscountCodeClient.pdb
+C:\Users\Durim\DiscountCodeClient\obj\Debug\net8.0\DiscountCodeClient.genruntimeconfig.cache
+C:\Users\Durim\DiscountCodeClient\obj\Debug\net8.0\ref\DiscountCodeClient.dll
